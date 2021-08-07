@@ -1,16 +1,11 @@
-contains the information that clearly explains your idea, approach and implementation.
-•A    clear    description    about    the    problem statement has been provided.
-•A clear explanation of why AI can be applied to  solve  the  proposed  problem has been provided.
-•The   proposed problem has a reasonable complexity in terms of building a solution.
-•The idea is innovative and novel.
 
-##IDEA
+## IDEA
 This project is on a Smart Accessible bot that can be used by everyone especially by the people with hearing loss. Such disabled people face a lot of difficulty in using the bots on the websites. Researchers have found that it is much easier for sign language users to keep track with.Sign language is really their native form of communication.Reading/writing English is very much a second language to most deaf people.
 Therefore, this Smart Bot can interpret the sign language from the user, and it will reply with sign language interpretation.
 
 ![ ](https://github.com/s3805530/azure_accessiblebot/blob/master/asl%20reasons.png)
 
-##APPROACH
+## APPROACH
 
 This project uses the end to end AI solution and, the machine learning life cycle.  
 As machines become more intelligent, they can carry out more and more tasks leading to creating empathy and making the world a better place to live in.   
@@ -19,7 +14,8 @@ In this project AI works by combining large amounts of sign language data with f
 
 
 
-##IMPLEMENTATION
+## IMPLEMENTATION
 
-![ ](https://github.com/s3805530/azure_accessiblebot/blob/master/Architecture.png)
+![ ](https://github.com/s3805530/azure_accessiblebot/blob/master/Architecture.png)  
+
 The above diagram represents the architecture used for the implementation of the project.
