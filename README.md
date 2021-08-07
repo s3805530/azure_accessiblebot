@@ -31,7 +31,8 @@ This data has been used to train the model to detect the sign languages.This dat
 
 The bot has been created using the Azure Bot Service and the QnA maker. The API key of Bot and the CustomVision (ML Model) has been used to create the webapp and has been deployed in the Azure Static WebApp as well.
 
-This project is implemented in such a way that it can be used to implement any Bot Services just by changing few parameters.
+
+This project is implemented in such a way that it can be used to implement any Bot Services just by changing few parameters.Future scalability and extensibility of this need not be worried because it has been deployed in Azure cloud,so that make the use of bot scalable.
 
 
 
