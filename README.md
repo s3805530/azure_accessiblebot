@@ -18,4 +18,14 @@ In this project AI works by combining large amounts of sign language data with f
 
 ![ ](https://github.com/s3805530/azure_accessiblebot/blob/master/Architecture.png)  
 
-The above diagram represents the architecture used for the implementation of the project.
+The above diagram represents the architecture used for the implementation of the project.  
+
+To make the machine learning model the full life cycle has been followed:-
+1. Data Flow- https://www.kaggle.com/datamunge/sign-language-mnist  
+This data has been used to train the model to detect the sign languages.This data contains only the letters and numbers of the sign languages.This dataset includes the images of the letters and numbers along with the pixel blocks for the data tagging.
+
+2. Model Phase- In order to make the model, first the Azure ML studio had been used, but due to few errors, CustomVision.ai of Azure Cognitive services has been used to train the prediction model using the object detection algorithm.
+
+3.Deployment Phase- The ML model has been deployed in the Customvision.ai of the Azure cognitive services.Formerly,it was deployed in the Azure ML studio, however for implementation with the bot CustomVision has been used.
+
+
