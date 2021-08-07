@@ -29,7 +29,7 @@ This data has been used to train the model to detect the sign languages.This dat
 3.Deployment Phase- The ML model has been deployed in the Customvision.ai of the Azure cognitive services.Formerly,it was deployed in the Azure ML studio, however for implementation with the bot,CustomVision has been used.   
 
 
-The bot has been created using the Azure Bot Service and the QnA maker. The API key of the bot has been used in creating the web app which is further deployed in the Azure Static WebApp. Similarly, the API key of the CustomVision (ML Model) has been used in the webapp.
+The bot has been created using the Azure Bot Service and the QnA maker. The API key of Bot and the CustomVision (ML Model) has been used to create the webapp and has been deployed in the Azure Static WebApp as well.
 
 This project is implemented in such a way that it can be used to implement any Bot Services just by changing few parameters.
 
